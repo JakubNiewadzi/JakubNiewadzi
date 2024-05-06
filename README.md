@@ -6,7 +6,7 @@ I am an Applied Computer Science student at Warsaw University of Technology. I m
  
  * I love reading fantasy books 📙
  * Whenever I (and my friends) have free time, we like going mountain hiking 🗻
- * I enjoy drinking drinking yerba mate while working 🧉
+ * I enjoy drinking yerba mate while working 🧉
  * My favourite artists are David Bowie 🐊, TOOL 👁️👁️👁️ and Iron Maiden💀
 
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jakubniewadzi&show_icons=true&locale=en&layout=compact" alt="jakubniewadzi" /></p>
